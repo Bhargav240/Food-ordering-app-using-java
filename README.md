@@ -1,4 +1,4 @@
-# Food-odeering-app-using-java
+# Food-ordering-app-using-java
 
 
 This is a Sample Application of Food Ordering System.
